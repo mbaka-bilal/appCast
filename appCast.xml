@@ -6,7 +6,7 @@
             <title>Version 2.0.0</title>
             <description>More questions</description>
             <pubDate>Wed, 29 March 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.thepocketmerlin.ges" sparkle:version="1.15.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.thepocketmerlin.ges" sparkle:version="2.0.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
