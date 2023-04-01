@@ -3,9 +3,9 @@
     <channel>
         <title>Ges App - Appcast</title>
         <item>
-            <title>Version 3.0.0</title>
+            <title>Version 1.1.0</title>
             <description>More questions</description>
-            <pubDate>Wed, 29 March 2023 12:00:00 +0000</pubDate>
+            <pubDate>Sat, 1 April 2023 16:16:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.thepocketmerlin.ges" sparkle:version="1.15.0" sparkle:os="android" />
         </item>
     </channel>
