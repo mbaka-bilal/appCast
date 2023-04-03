@@ -1,15 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
-        <title>Ges App - Appcast</title>
+        <title>My App Updater</title>
+        <link>https://www.myapp.com</link>
+        <description>Updates for My App</description>
+        <language>en</language>
         <item>
             <title>Version 1.1.0</title>
             <sparkle:version>1.1.0</sparkle:version>
-            <description>More questions</description>
-            <pubDate>Sat, 1 April 2023 16:16:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.thepocketmerlin.ges" 
-                       sparkle:version="1.1.0" 
-                       sparkle:os="android" />
+            <description><![CDATA[
+                <h2>What's New:</h2>
+                <ul>
+                    <li>Added support for new features</li>
+                    <li>Fixed some bugs</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 23 Mar 2023 00:00:00 GMT</pubDate>
+            <enclosure url="https://www.myapp.com/updates/myapp_1.1.0.apk"
+                       sparkle:version="1.1.0"
+                       length="5550000"
+                       type="application/vnd.android.package-archive" />
         </item>
     </channel>
 </rss>
