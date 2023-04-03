@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>My App Updater</title>
-        <link>https://www.myapp.com</link>
+        <link>https://play.google.com/store/apps/details?id=com.thepocketmerlin.ges</link>
         <description>Updates for My App</description>
         <language>en</language>
         <item>
@@ -16,7 +16,7 @@
                 </ul>
             ]]></description>
             <pubDate>Tue, 23 Mar 2023 00:00:00 GMT</pubDate>
-            <enclosure url="https://www.myapp.com/updates/myapp_1.1.0.apk"
+            <enclosure url="https://play.google.com/store/apps/details?id=com.thepocketmerlin.ges"
                        sparkle:version="1.1.0"
                        length="5550000"
                        type="application/vnd.android.package-archive" />
